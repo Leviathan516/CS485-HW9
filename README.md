@@ -20,7 +20,8 @@
 
 ## Screenshot
 
-[JavaScript Mini Demo.pdf](https://github.com/user-attachments/files/26520319/JavaScript.Mini.Demo.pdf)
+<img width="796" height="569" alt="Screenshot 2026-04-06 at 1 36 51 PM" src="https://github.com/user-attachments/assets/04428271-dd45-47cb-b189-69e142c25633" />
+
 
 
 ---
