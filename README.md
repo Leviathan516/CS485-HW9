@@ -20,6 +20,7 @@
 
 ## Screenshot
 
+[JavaScript Mini Demo.pdf](https://github.com/user-attachments/files/26520319/JavaScript.Mini.Demo.pdf)
 
 
 ---
